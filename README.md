@@ -1,1 +1,2 @@
 # PingPong-PRO
+PingPong-PRO is a high-intensity gesture-controlled game that redefines the classic arcade experience. Unlike traditional competitive matches, this version challenges you to play against yourself. By controlling both paddles simultaneously with your left and right hands, you must navigate the ultimate test of bilateral coordination and neural reaction limits. Your hands are mapped directly into the virtual arena via real-time camera tracking.
